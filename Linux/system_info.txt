@@ -1,0 +1,33 @@
+SYSTEM INFORMATION
+Username:
+princess
+Current Date:
+Tue Nov 24 19:53:27 UTC 2026
+Linux Information:
+Linux LAPTOP-F4TT438S 6.18.58.1-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Tue Oct 27 00:24:11 UTC 2026 x86_64 GNU/Linux
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         155G  122G   33G  79% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.6G  955G   1% /
+none            3.8G   48K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  3.4M  3.8G   1% /init
+none            3.8G  560K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G  104K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G  104K  3.8G   1% /mnt/wslg/doc
+C:\             155G  122G   33G  79% /mnt/c
+D:\             293G  104M  293G   1% /mnt/d
+tmpfs           3.8G     0  3.8G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           760M   12K  760M   1% /run/user/1000
+Memory Information:
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       618Mi       6.7Gi       4.2Mi       268Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi

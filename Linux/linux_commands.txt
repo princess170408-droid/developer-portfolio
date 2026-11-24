@@ -1,0 +1,36 @@
+LINUX COMMANDS AND OUTPUTS
+Present Working Directory:
+/home/princess/DeveloperPortfolio/Linux
+Files and Directories:
+total 16
+drwxr-xr-x 2 princess princess 4096 Nov 24 19:51 .
+drwxr-xr-x 7 princess princess 4096 Nov 24 19:51 ..
+-rw-r--r-- 1 princess princess    0 Nov 24 19:51 documentation.md
+-rw-r--r-- 1 princess princess  117 Nov 24 19:54 linux_commands.txt
+-rw-r--r-- 1 princess princess 1661 Nov 24 19:53 system_info.txt
+Current User:
+princess
+Date:
+Tue Nov 24 19:54:42 UTC 2026
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         155G  122G   33G  79% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.6G  955G   1% /
+none            3.8G   48K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  3.4M  3.8G   1% /init
+none            3.8G  560K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G  104K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G  104K  3.8G   1% /mnt/wslg/doc
+C:\             155G  122G   33G  79% /mnt/c
+D:\             293G  104M  293G   1% /mnt/d
+tmpfs           3.8G     0  3.8G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           760M   12K  760M   1% /run/user/1000
